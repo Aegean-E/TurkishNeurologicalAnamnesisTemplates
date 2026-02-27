@@ -18,8 +18,8 @@ Ayda veya haftada kaç gün ağrı yaşandığını belirtir. Bu, epizodik ve kr
 **AĞRI SÜRESİ :**
 Ağrı ataklarının ne kadar sürdüğünü (dakikalar, saatler, günler) tanımlar. Bu, tanı için en önemli ipuçlarından biridir.
 *   **Migren:** Genellikle 4-72 saat.
-*   **Gerilim Tipi:** 30 dakikadan 7 güne kadar.
-*   **Küme Baş Ağrısı:** 15-180 dakika.
+*   **Gerilim Tipi:** 30 dakikadan 7 güne kadar sürebilir. Genellikle bulantı eşlik etmez ve rutin fiziksel aktiviteyle şiddetlenmez.
+*   **Küme Baş Ağrısı:** 15-180 dakika sürer, genellikle günde 1-8 atak şeklinde gelir ve sıklıkla günün aynı saatlerinde (sirkadiyen özellik) ortaya çıkar.
 
 **AĞRI ŞİDDETİ :**
 Genellikle 1-10 arası bir skala (VAS) üzerinden değerlendirilir. Ağrının hastanın yaşam kalitesini ne kadar etkilediğini gösterir. Migren ve küme baş ağrıları tipik olarak şiddetliyken, gerilim tipi baş ağrısı daha çok hafif-orta şiddettedir.
@@ -31,7 +31,7 @@ Ağrının yeri (tek taraflı, çift taraflı, ense, alın, göz çevresi vb.). 
 Ağrının karakteri (zonklayıcı, sıkıştırıcı, batıcı, elektrik çarpması gibi). Zonklayıcı ağrı migren için, sıkıştırıcı/basınç hissi gerilim tipi için klasiktir.
 
 **POZİSYONA BAĞLI AĞRI :**
-Ağrının vücut pozisyonuyla (ayağa kalkma, yatma, öne eğilme) değişip değişmediğini sorgular. Ayağa kalkınca artan ağrı beyin omurilik sıvısı (BOS) kaçağına bağlı düşük kafa içi basıncını, yatınca artan ağrı ise yüksek kafa içi basıncını (örn. İdiyopatik İntrakraniyal Hipertansiyon) düşündürebilir.
+Ağrının vücut pozisyonuyla değişip değişmediğini sorgular. Ayağa kalkınca artan veya gün içinde ilerleyici olarak kötüleşip yatmakla düzelen ağrı, beyin omurilik sıvısı (BOS) kaçağına bağlı düşük kafa içi basıncını düşündürür. Buna karşın, özellikle sabahları belirgin olan ve yatınca artan ağrı ise yüksek kafa içi basıncını (örn. İdiyopatik İntrakraniyal Hipertansiyon) akla getirir.
 
 ---
 
@@ -42,6 +42,7 @@ Genellikle ağrıdan hemen önce başlayan veya ağrıya eşlik eden, tam geri d
 
 **TİNNİTUS / TİNNİTUS KARAKTERİ :**
 Kulak çınlaması. Özellikle nabızla senkronize (pulsatil) bir çınlama, kafa içi basınç artışı veya vasküler (damarsal) bir anomali için "kırmızı bayrak" olabilir.
+Tek taraflı çınlama, progresif işitme kaybı ile birlikteyse, Vestibüler Schwannoma gibi bir retrokoklear patoloji akla gelmelidir.
 
 **DİPLOPİ :**
 Çift görme. Acil araştırma gerektiren önemli bir nörolojik bulgudur. Migren aurasının bir parçası olabilse de, kafa sinirlerini etkileyen ciddi durumları ekarte etmek gerekir.
@@ -50,13 +51,26 @@ Kulak çınlaması. Özellikle nabızla senkronize (pulsatil) bir çınlama, kaf
 Postural hipotansiyon belirtisi olabileceği gibi, düşük kafa içi basıncı gibi durumlarla da ilişkili olabilir.
 
 **OTONOMİK BULGULAR (BURUN AKINTISI, GÖZ YAŞI, vb.) :**
-Ağrıyla aynı tarafta gözde yaşarma, kızarıklık, burun akıntısı/tıkanıklığı gibi belirtiler "Trigeminal Otonomik Sefaljiler" (örn. Küme Baş Ağrısı) için tanı koydurucu niteliktedir.
+Ağrıyla aynı tarafta gözde yaşarma, kızarıklık, burun akıntısı/tıkanıklığı gibi belirtiler "Trigeminal Otonomik Sefaljiler" (örn. Küme Baş Ağrısı) için tanı koydurucu niteliktedir. Bu bulguların ağrıyla aynı tarafta (ipsilateral) olması tanısal açıdan kritiktir ve bu ağrıya genellikle şiddetli bir ajitasyon (hastanın yerinde duramaması) eşlik eder.
 
 **GÖRME BULANIKLIĞI / BULANTI / KUSMA :**
 Bu belirtiler, migrenin en sık eşlikçileridir. Özellikle bulantı ve kusma, ağrının şiddeti hakkında da fikir verir. Görme bulanıklığı aynı zamanda kafa içi basınç artışının bir belirtisi de olabilir.
 
 **FOTO/FONOFOBİ/OZMOFOBİ (IŞIK/SES/KOKU HASSASİYETİ) :**
 Işığa (Fotofobi), sese (Fonofobi) ve kokulara (Ozmofobi) karşı artan hassasiyet, migren tanısı için çok tipik ve önemli kriterlerdir. Hastanın ağrı sırasında karanlık, sessiz bir odaya çekilme ihtiyacı hissetmesi bu durumu destekler.
+Gerilim tipi baş ağrısında ise fotofobi veya fonofobiden sadece biri bulunabilir; ikisinin bir arada olması beklenmez.
+
+---
+
+### 🔴 KIRMIZI BAYRAKLAR (SNOOP MNEMONIC)
+
+Baş ağrısı değerlendirmesinde ikincil ve tehlikeli nedenleri dışlamak için kullanılan bir tarama aracıdır. Bu maddelerden birinin varlığı, acil ileri tetkik (genellikle beyin görüntülemesi) gerektirir.
+
+*   **S (Systemic Symptoms):** Ateş, kilo kaybı gibi sistemik hastalık belirtileri veya altta yatan kanser, HIV gibi bir durumun olması.
+*   **N (Neurologic Deficits):** Ağrıya eşlik eden güçsüzlük, duyu kaybı, bilinç değişikliği, papilödem gibi fokal nörolojik bulgular.
+*   **O (Onset):** Aniden, saniyeler içinde en yüksek şiddetine ulaşan baş ağrısı ("gök gürültüsü" baş ağrısı), subaraknoid kanama gibi vasküler bir felaketin habercisi olabilir.
+*   **O (Older Age):** 50 yaşından sonra yeni başlayan ve ilerleyici karakterde bir baş ağrısı (örn. temporal arterit).
+*   **P (Pattern Change):** Mevcut bir baş ağrısı paterninde değişiklik (sıklık, şiddet veya karakterde belirgin kötüleşme) veya tedaviye yanıtsızlık.
 
 ---
 
@@ -67,6 +81,7 @@ Stres, uykusuzluk veya aşırı uyku; migren ve gerilim tipi baş ağrısı içi
 
 **ANALJEZİK YANITI / KULLANIM SIKLIĞI :**
 Basit ağrı kesicilere yanıt alınıp alınmadığı ve daha önemlisi, hastanın ne sıklıkla ilaç kullandığı sorgulanır. Ayda 10-15 günden fazla ağrı kesici kullanımı, "İlaç Aşırı Kullanım Baş Ağrısı"na yol açabilir.
+Bu tanı için eşik değerler genellikle basit analjezikler için ayda 15 günden, triptan/opioid/kombinasyon analjezikleri için ise ayda 10 günden fazla kullanımdır.
 
 **CİNSEL AKTİVİTEYE BAĞLI ARTIŞ :**
 Cinsel aktivite ile tetiklenen baş ağrıları (orgazmik veya pre-orgazmik) tanımlanmış bir birincil baş ağrısı türüdür. Ancak ilk kez ortaya çıktığında kanama gibi ikincil nedenleri dışlamak önemlidir.
